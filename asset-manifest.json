@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dordle/static/css/main.b773d592.css",
+    "main.js": "/dordle/static/js/main.af23191b.js",
+    "static/js/787.96d2173e.chunk.js": "/dordle/static/js/787.96d2173e.chunk.js",
+    "index.html": "/dordle/index.html",
+    "main.b773d592.css.map": "/dordle/static/css/main.b773d592.css.map",
+    "main.af23191b.js.map": "/dordle/static/js/main.af23191b.js.map",
+    "787.96d2173e.chunk.js.map": "/dordle/static/js/787.96d2173e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b773d592.css",
+    "static/js/main.af23191b.js"
+  ]
+}
