@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dordle/static/css/main.b773d592.css",
-    "main.js": "/dordle/static/js/main.af23191b.js",
-    "static/js/787.96d2173e.chunk.js": "/dordle/static/js/787.96d2173e.chunk.js",
-    "index.html": "/dordle/index.html",
-    "main.b773d592.css.map": "/dordle/static/css/main.b773d592.css.map",
-    "main.af23191b.js.map": "/dordle/static/js/main.af23191b.js.map",
-    "787.96d2173e.chunk.js.map": "/dordle/static/js/787.96d2173e.chunk.js.map"
+    "main.css": "/static/css/main.b773d592.css",
+    "main.js": "/static/js/main.49a6213f.js",
+    "static/js/787.96d2173e.chunk.js": "/static/js/787.96d2173e.chunk.js",
+    "index.html": "/index.html",
+    "main.b773d592.css.map": "/static/css/main.b773d592.css.map",
+    "main.49a6213f.js.map": "/static/js/main.49a6213f.js.map",
+    "787.96d2173e.chunk.js.map": "/static/js/787.96d2173e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b773d592.css",
-    "static/js/main.af23191b.js"
+    "static/js/main.49a6213f.js"
   ]
 }
